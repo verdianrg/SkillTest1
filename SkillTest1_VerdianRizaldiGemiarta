@@ -1,4 +1,25 @@
-Nama                : Verdian Rizaldi Gemiarta
-Umur                : 24
-Stack               : Frontend
-Bahasa Pemograman   : React Native
+Jelaskan Jira vs Trello vs YouTrack, dari sisi :
+1.Penggunaan/alur meyelesaikan ticketing(to do list yang ada)
+-Jira     = Untuk di Jira sebenarmya dalam default hanya ada 3 alur yaitu Create issue, In Progress, dan terakhir Done Issue.
+        Kita dapat menambahkan alur dari 3 alur yang default seperti Check Issue atau sesuai kebutuhan.
+-YouTrack = Dalam Youtrack sama seperti Jira yaitu ada 3 step Create, In Progress dan Fixed. Tetapi dalam Youtrack terdapat 
+        fitur-fitur yang kompleks untuk menyelesaikan taks nya.
+-Trello   = Dalam Trello lebih tepatnya hampir sama seperti Jira, dalam alur terdapat Backlog, Design, To-Do, Doing, Code Review
+        Testing lalu yang terakhir Done.
+        
+        
+2.Kelebihan dari masing masing ketiga tools
+Jira            = Simple, mudah dipahami
+Youtrack        = Banyak Fitur, detail pengerjaan lebih rinci
+Trello          = Interface menarik, Simple, fitur lebih baik dari Jira
+3.Kekurangan dar masing masing ketiga tools
+Jira            = Kekurangan fitur dibanding dari ketiga tools
+Youtrack        = Membutuhkan waktu untuk paham dalam menyelesaikan alur, kompleks
+Trello          = Tidak ada fitur monitoring seperti di Youtrack
+
+-Memilih mana yang paling mudah digunakan menurut kalian?
+yang paling mudah adalah Jira.
+-Memilih mana yang paling kompleks menurut kalian?
+yang paling kompleks Youtrack
+-Memilih mana yang paling mirip dengan sev-2
+sev-2 saya belum bisa dibuka.
